@@ -1,0 +1,6 @@
+framework module ToDoItemModel {
+  umbrella header "ToDoItemModel-umbrella.h"
+
+  export *
+  module * { export * }
+}
